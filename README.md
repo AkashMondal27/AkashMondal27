@@ -9,7 +9,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=600&height=60&lines=Full+Stack+Web+Developer;React+Enthusiast;Problem+Solver;Continuous+Learner" />
+  <!-- <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=600&height=60&lines=Full+Stack+Web+Developer;React+Enthusiast;Problem+Solver;Continuous+Learner" /> -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&center=true&vCenter=true&width=600&color=58A6FF&lines=Full+Stack+Web+Developer;React+Enthusiast;Problem+Solver;Continuous+Learner" />
+
 </p>
 
 
@@ -53,16 +55,26 @@
 
 ## 📊 GitHub Statistics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AkashMondal27&show_icons=true&theme=tokyonight&cache_seconds=1800&hide_border=true" width="60%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkashMondal27&theme=tokyonight&cache_seconds=1800&hide_border=true" width="60%" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=AkashMondal27&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&cache_seconds=1800" 
+    width="60%" 
+  />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=AkashMondal27&theme=tokyonight&hide_border=true&cache_seconds=1800" 
+    width="60%" 
+  />
 </p>
 
 
 
 ## 📈 Contribution Activity
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkashMondal27&theme=react-dark" />
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=AkashMondal27&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true&hide_title=true" 
+    width="100%" 
+  />
+</p>
+
 
   ## 🤝 Connect With Me
 <p align="left">
