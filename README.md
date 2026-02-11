@@ -61,8 +61,10 @@
 
 ## 📈 Contribution Activity
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkashMondal27&theme=react-dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AkashMondal27&show_icons=true&theme=tokyonight&cache_seconds=1800&hide_border=true" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkashMondal27&theme=tokyonight&cache_seconds=1800&hide_border=true" width="60%" />
 </p>
+
 
   ## 🤝 Connect With Me
 <p align="left">
