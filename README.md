@@ -18,7 +18,7 @@
 
 ## 👨‍💻 About Me
 - 🎓 B.Tech in **Computer Science & Engineering**
-- 💻 Aspiring **Full Stack Web Developer**
+- 💻 ** MERN Full Stack Web Developer**
 - 🌱 Currently focusing on **Advanced Web Development**
 - ⚡ Strong interest in **problem-solving & clean code**
 - 🚀 Enjoy building **real-world, scalable projects**
