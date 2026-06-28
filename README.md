@@ -19,39 +19,69 @@
 ## 👨‍💻 About Me
 - 🎓 B.Tech in **Computer Science & Engineering**
 - 💻  MERN Full Stack Web Developer
-- 🌱 Currently focusing on **Advanced Web Development**
-- ⚡ Strong interest in **problem-solving & clean code**
+- 🌱 Currently learning  **MERN Stack & Backend Development**
+- ⚡ Passionate about **problem-solving & clean code**
 - 🚀 Enjoy building **real-world, scalable projects**
 
 
+<h2 >🧠 Tech & Toolbelt</h2>
 
+<table align="center">
+<tr>
+<td align="center" width="180"><b>💻 Languages</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=cpp,java,js&perline=6" height="38"/>
+</td>
+</tr>
 
-## 🛠️ Tech Stack
+<tr>
+<td align="center"><b>🎨 Frontend</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,vite&perline=6" height="38"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=axios" height="38"/>
+</td>
+</tr>
 
-### 💻 Programming Languages
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/>&nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>&nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>&nbsp &nbsp&nbsp
-  
-</p>
+<tr>
+<td align="center"><b>⚙️ Backend</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=nodejs,express&perline=6" height="38"/>
+<img src="https://img.shields.io/badge/REST_API-02569B?style=flat-square"/>
+</td>
+</tr>
 
-### 🌐 Web Technologies
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>&nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>&nbsp
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45"/>&nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>&nbsp
-</p>
+<tr>
+<td align="center"><b>🗄️ Database & ODM</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&perline=6" height="38"/>
+<img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white"/>
+</td>
+</tr>
 
-### ⚙️ Tools & Platforms
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>&nbsp &nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>&nbsp &nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>&nbsp &nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>&nbsp
-</p>
+<tr>
+<td align="center"><b>🔐 Authentication</b></td>
+<td>
+<img src="https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens"/>
+<img src="https://img.shields.io/badge/bcrypt-blue?style=flat-square"/>
+</td>
+</tr>
 
+<tr>
+<td align="center"><b>☁️ Cloud & Upload</b></td>
+<td>
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white"/>
+<img src="https://img.shields.io/badge/Multer-FF6F00?style=flat-square"/>
+</td>
+</tr>
+
+<tr>
+<td align="center"><b>🛠️ Tools</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm&perline=6" height="38"/>
+<img src="https://img.shields.io/badge/Nodemon-76D04B?style=flat-square&logo=nodemon&logoColor=white"/>
+</td>
+</tr>
+</table>
 
 
 ## 📊 GitHub Statistics
