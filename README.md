@@ -30,7 +30,7 @@
 <tr>
 <td align="center" width="180"><b>💻 Languages</b></td>
 <td>
-<img src="https://skillicons.dev/icons?i=cpp,java,js&perline=6" height="38"/>
+<img src="https://skillicons.dev/icons?i=java,js&perline=6" height="38"/>
 </td>
 </tr>
 
@@ -85,18 +85,17 @@
 
 
 ## 📊 GitHub Statistics
+
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=AkashMondal27&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&cache_seconds=1800" 
-    width="60%" 
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=AkashMondal27&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
+    width="49%"
   />
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=AkashMondal27&theme=tokyonight&hide_border=true&cache_seconds=1800" 
-    width="60%" 
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=AkashMondal27&theme=tokyonight&hide_border=true&cache_seconds=1800"
+    width="50%"
   />
 </p>
-
-
 
 ## 📈 Contribution Activity
 <p align="center">
